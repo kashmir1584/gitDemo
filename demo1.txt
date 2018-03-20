@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 7630-CC0F
+
+ Directory of C:\Users\HP\Desktop\sample
+
+03/21/2018  01:38 AM    <DIR>          .
+03/21/2018  01:38 AM    <DIR>          ..
+03/21/2018  01:09 AM                 8 demo.txt
+03/21/2018  01:38 AM                 0 demo1.txt
+03/21/2018  01:10 AM                21 index.html
+               3 File(s)             29 bytes
+               2 Dir(s)  17,095,487,488 bytes free
